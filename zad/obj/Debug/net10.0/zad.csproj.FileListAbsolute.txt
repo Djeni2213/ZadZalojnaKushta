@@ -1,0 +1,15 @@
+D:\school\Djeni 11a\zadZalojnaKushta\zad\bin\Debug\net10.0\zad.exe
+D:\school\Djeni 11a\zadZalojnaKushta\zad\bin\Debug\net10.0\zad.deps.json
+D:\school\Djeni 11a\zadZalojnaKushta\zad\bin\Debug\net10.0\zad.runtimeconfig.json
+D:\school\Djeni 11a\zadZalojnaKushta\zad\bin\Debug\net10.0\zad.dll
+D:\school\Djeni 11a\zadZalojnaKushta\zad\bin\Debug\net10.0\zad.pdb
+D:\school\Djeni 11a\zadZalojnaKushta\zad\obj\Debug\net10.0\zad.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\Djeni 11a\zadZalojnaKushta\zad\obj\Debug\net10.0\zad.AssemblyInfoInputs.cache
+D:\school\Djeni 11a\zadZalojnaKushta\zad\obj\Debug\net10.0\zad.AssemblyInfo.cs
+D:\school\Djeni 11a\zadZalojnaKushta\zad\obj\Debug\net10.0\zad.csproj.CoreCompileInputs.cache
+D:\school\Djeni 11a\zadZalojnaKushta\zad\obj\Debug\net10.0\zad.dll
+D:\school\Djeni 11a\zadZalojnaKushta\zad\obj\Debug\net10.0\refint\zad.dll
+D:\school\Djeni 11a\zadZalojnaKushta\zad\obj\Debug\net10.0\zad.pdb
+D:\school\Djeni 11a\zadZalojnaKushta\zad\obj\Debug\net10.0\zad.genruntimeconfig.cache
+D:\school\Djeni 11a\zadZalojnaKushta\zad\obj\Debug\net10.0\ref\zad.dll
+D:\school\Djeni 11a\zadZalojnaKushta\zad\obj\Debug\net10.0\zad.csproj.Up2Date
